@@ -49,7 +49,7 @@ C:\TempY\node4mysql\nodemysql>node create-table.js
 Connected!
 Results RowDataPacket {
   id: 1,
-  nome: 'Mauricio',
+  nome: 'Eduardo Yuidy',
   telefone: '12345678',
   endereco: 'Rua Vergueiro' }
 ```
